@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <image name="android-icon.png" type="multi"  />
+    <image name="apple-icon.png" type="multi"  />
+    <image name="duke-no-logos.png" type="multi"  />
+    <legacyFont name="Font 1" />
+    <legacyFont name="Font 2" />
+    <legacyFont name="Font 3" />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Button.bgColor" value="2db271" />
+        <val key="Button.fgColor" value="000000" />
+        <val key="Button.press#fgColor" value="000000" />
+        <val key="Button.transparency" value="255" />
+        <border key="DialogBody.border" type="line" millimeters="false" thickness="1.0" color="11398345" />
+        <val key="DialogCommandArea.bgColor" value="ADECC9" />
+        <border key="DialogCommandArea.border" type="line" millimeters="false" thickness="1.0" color="11398345" />
+        <val key="DialogCommandArea.transparency" value="255" />
+        <val key="DialogContentPane.bgColor" value="ADECC9" />
+        <val key="DialogContentPane.fgColor" value="000000" />
+        <val key="DialogContentPane.transparency" value="255" />
+        <val key="DialogTitle.bgColor" value="ADECC9" />
+        <border key="DialogTitle.border" type="line" millimeters="false" thickness="1.0" color="11398345" />
+        <val key="DialogTitle.transparency" value="255" />
+        <val key="GetStarted.align" value="4" />
+        <val key="GetStarted.bgColor" value="339900" />
+        <val key="GetStarted.fgColor" value="ffffff" />
+        <font key="GetStarted.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="2.5" />
+        <val key="GetStarted.padUnit" value="2,2,2,2" />
+        <val key="GetStarted.padding" value="1.0,1.0,1.0,1.0" />
+        <val key="GetStarted.press#align" value="4" />
+        <val key="GetStarted.press#bgColor" value="339900" />
+        <val key="GetStarted.press#fgColor" value="ffffff" />
+        <val key="GetStarted.press#padUnit" value="2,2,2,2" />
+        <val key="GetStarted.press#padding" value="1.0,1.0,1.0,1.0" />
+        <val key="GetStarted.press#transparency" value="255" />
+        <val key="GetStarted.sel#align" value="4" />
+        <val key="GetStarted.sel#bgColor" value="339900" />
+        <val key="GetStarted.sel#fgColor" value="ffffff" />
+        <val key="GetStarted.sel#padUnit" value="2,2,2,2" />
+        <val key="GetStarted.sel#padding" value="1.0,1.0,1.0,1.0" />
+        <val key="GetStarted.sel#transparency" value="255" />
+        <val key="GetStarted.transparency" value="255" />
+        <val key="TextArea.bgColor" value="E1FCF5" />
+        <border key="TextArea.border" type="line" millimeters="false" thickness="1.0" color="11398345" />
+        <font key="TextArea.font" type="system" face="0" style="0" size="0" />
+        <val key="TextArea.sel#bgColor" value="E1FCF5" />
+        <val key="TextField.bgColor" value="E1FCF5" />
+        <font key="TextField.font" type="system" face="0" style="0" size="0" />
+        <val key="TextField.sel#bgColor" value="E1FCF5" />
+        <val key="Title.fgColor" value="99F3C9" />
+        <font key="Title.font" type="named" name="Font 3" />
+        <val key="TitleArea.bgColor" value="000000" />
+        <val key="TitleArea.fgColor" value="2db271" />
+        <val key="TitleCommand.fgColor" value="2db271" />
+        <val key="Toolbar.bgColor" value="532c" />
+        <border key="Toolbar.border" type="empty" />
+        <val key="Toolbar.fgColor" value="2db271" />
+        <val key="Toolbar.transparency" value="255" />
+        <val key="bgColor" value="E1FCF5" />
+    </theme>
+    <image name="Toolbar.borderBottom_1.png" type="multi"  />
+    <image name="Toolbar.borderBottomL_1.png" type="multi"  />
+    <image name="Toolbar.borderBottomR_1.png" type="multi"  />
+    <image name="Toolbar.borderCenter_1.png" type="multi"  />
+    <image name="Toolbar.borderLeft_1.png" type="multi"  />
+    <image name="Toolbar.borderRight_1.png" type="multi"  />
+    <image name="Toolbar.borderTop_1.png" type="multi"  />
+    <image name="Toolbar.borderTopL_1.png" type="multi"  />
+    <image name="Toolbar.borderTopR_1.png" type="multi"  />
+    <image name="windows-icon.png" type="multi"  />
+</resource>
